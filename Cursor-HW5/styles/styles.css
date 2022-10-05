@@ -1,0 +1,151 @@
+body {
+    margin: 50px 50px;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+    font-style: normal;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: #2C2C2C
+}
+
+.table1 {
+    width: 700px;
+    margin-top: 50px;
+    color: #555;
+    background-color: #2F2F2F;
+    border-collapse: collapse;
+    border: 1px solid #737373;
+    border-radius: 5px;
+}
+
+.table1 tr {
+    height: 40px;
+    border-bottom: 1px solid #737373;
+    text-align: left;
+}
+
+.image1 {
+    height: 20px;
+    width: 20px;
+    padding-left: 8px;
+}
+
+.name {
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 20px;
+}
+
+.table1 th {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.file1 {
+    color:white;
+    padding-left: 20px;
+}
+
+.file {
+    color: white;
+    
+}
+
+.points {
+    width: 10%;
+    color: #b1b1b1aa;
+    cursor: pointer;
+    padding-left: 30px;
+}
+
+.table2 {
+    width: 700px;
+    margin-top: 50px;
+    color: #555;
+    background-color: #2F2F2F;
+    border-collapse: collapse;
+    border: 1px solid #737373;
+    border-radius: 5px;
+}
+
+input {
+    margin-left: 20px;
+    margin-right: 10px;
+}
+
+.image2 {
+    height: 15px;
+    width: 15px;
+    padding-right: 8px;
+}
+
+.table2 tr {
+    height: 40px;
+    border-bottom: 1px solid #737373;
+    text-align: left;
+}
+
+.table2 th {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+}
+
+.table3 {
+    width: 700px;
+    margin-top: 50px;
+    color: #555;
+    background-color: #2F2F2F;
+    border-collapse: collapse;
+    border: 1px solid #737373;
+    border-radius: 5px;
+}
+
+.table3 tr {
+    height: 40px;
+    border-bottom: 1px solid #737373;
+    text-align: left;
+}
+
+.table3 th {
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+}
+
+input#seach1 {
+    background-image: url("./image/пошук.png");
+    height: 20px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    background-color: #4f4f4f;
+    background-repeat: no-repeat;
+    background-position: 5%;
+    background-size: 15px;
+    text-indent: 30px;
+    border-style: none;
+    border-radius: 4px;
+}
+
+.image3 {
+    height: 15px;
+    width: 15px;
+    padding-right: 8px;
+    padding-left: 20px;
+}
+
+.button {
+    padding-left: 235px;
+}
+
+.button-one {
+padding-left: 225px;
+}
+
+
